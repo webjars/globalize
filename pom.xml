@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>globalize</artifactId>
-    <version>1.0.0-alpha.2-SNAPSHOT</version>
+    <version>1.0.0-alpha.2</version>
     <name>Globalize</name>
     <description>WebJar for Globalize</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/globalize</url>
         <connection>scm:git:https://github.com/webjars/globalize.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/globalize.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>globalize-1.0.0-alpha.2</tag>
     </scm>
     
     <dependencies>
